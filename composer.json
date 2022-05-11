@@ -1,5 +1,5 @@
 {
-  "name": "biblys/isbn",
+  "name": "fdt2k/isbn",
   "description": "A PHP library to convert and validate ISBNs",
   "time": "2022-01-10",
   "keywords": [
@@ -19,9 +19,7 @@
   "support": {
     "issues": "https://github.com/biblys/isbn/issues"
   },
-  "require": {
-    "php": "^7.1"
-  },
+ 
   "require-dev": {
     "ext-json": "*",
     "ext-simplexml": "*",
